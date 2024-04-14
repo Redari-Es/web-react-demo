@@ -6,7 +6,7 @@
 
 ### 页面效果
 
-![页面1](img/demo1.png) 
-![页面2](img/demo2.png) 
-![页面3](img/demo3.png) 
+![页面1](img/demo1) 
+![页面2](img/demo2) 
+![页面3](img/demo3) 
 
