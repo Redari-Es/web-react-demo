@@ -16,9 +16,6 @@
 
 ## 即时设计
 
-<div class="pic" align=center>
-<img src="./img/demo1.png" width="60%" height="40%"></div> 
+![双城之战](img/demo1)
+![网页](img/demo2)
 
-<div class="pic" align=center>
-<img src="./img/demo2.png" width="60%" height="40%"></div> 
-<++>
