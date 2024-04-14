@@ -24,13 +24,12 @@ function Header(props){
 export default function Generator(props) {
         const {muscles,setMuscles,poison,setPoison,goal,setGoal,updateWorkout}=props
     const [showModal,setShowModal]=useState(false)
-    // let showModal=false
     function toggleModal(){
       setShowModal(!showModal)
     }
     function updateMuscles(muscleGroup){
       if(muscles.includes(muscleGroup)){
-        setMuscles(muscles.filter(val=>val!=muscleeGroup))
+        setMuscles(muscles.filter(val=>val!==muscleeGroup))
         return
       }
       if (muscles.length>2){
