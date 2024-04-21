@@ -19,19 +19,19 @@ export const categories=[
 export const videos = [
   {
     id: "1",
-    title: "CSS Anchor Is The Best New CSS Feature Since Flexbox",
+    title: "𝟒𝐊超清|走心翻译】Fortnight苦难诗社Taylor Swift霉霉最新专辑TTPD泰勒斯威夫特4K",
     channel: {
-      name: "Web Dev Simplified",
-      id: "WebDevSimplified",
+      name: "Taylor Swift - Fortnight",
+      id: "Fortnight",
       profileUrl:
         "https://i1.hdslb.com/bfs/archive/98cef2282baed038a3fe79608de405436c65cced.png@672w_378h_1c_!web-home-common-cover.avif",
     },
     views: 222536,
     postedAt: new Date("2023-08-29"),
     duration: 938,
-    thumbnailUrl: "https://i2.hdslb.com/bfs/archive/661c271bc31b08ecc04c2b9aa09262821dcb2d3a.jpg",
+    thumbnailUrl: "https://i0.hdslb.com/bfs/archive/6b440a337f6b81a9beea2bdb81a5d0e44ad666a9.jpg@672w_378h_1c_!web-search-common-cover.avif",
     videoUrl:
-		"https://www.bilibili.com/video/BV1gS4y1B7Dx/?vd_source=51e6817c9a3ed5398d4c0a01be9d66b8"
+		"https://b23.tv/xxKFe8X"
   },
   {
     id: "2",
@@ -47,7 +47,7 @@ export const videos = [
     duration: 732,
     thumbnailUrl: "https://i.ytimg.com/vi/d6a8RymS1zI/maxresdefault.jpg",
     videoUrl:
-      "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+		"https://b23.tv/xxKFe8X"
   },
   {
     id: "3",
@@ -56,14 +56,14 @@ export const videos = [
       name: "Kevin Powell",
       id: "KevinPowell",
       profileUrl:
-        "https://yt3.ggpht.com/ytc/APkrFKa6XiLa13mMVPzkmmTBcgNPjjqCGPrY86KfJFmf5w=s48-c-k-c0x00ffffff-no-rj",
+      "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
     },
     views: 1232300,
     postedAt: new Date("2023-10-05"),
     duration: 120,
     thumbnailUrl: "https://i.ytimg.com/vi/eYPyIq5Y3Rk/maxresdefault.jpg",
     videoUrl:
-      "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+		"https://b23.tv/xxKFe8X"
   },
   {
     id: "4",
@@ -79,7 +79,7 @@ export const videos = [
     duration: 4343,
     thumbnailUrl: "https://i.ytimg.com/vi/apdD69J4bEc/maxresdefault.jpg",
     videoUrl:
-      "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+		"https://b23.tv/xxKFe8X"
   },
   {
     id: "5",
@@ -95,7 +95,7 @@ export const videos = [
     duration: 1000,
     thumbnailUrl: "https://i.ytimg.com/vi/M3mGY0pgFk0/maxresdefault.jpg",
     videoUrl:
-      "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+		"https://b23.tv/xxKFe8X"
   },
   {
     id: "6",
@@ -111,7 +111,7 @@ export const videos = [
     duration: 54,
     thumbnailUrl: "https://i.ytimg.com/vi/i2JVQdLnkAY/maxresdefault.jpg",
     videoUrl:
-      "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+		"https://b23.tv/xxKFe8X"
   },
   {
     id: "7",
@@ -127,7 +127,7 @@ export const videos = [
     duration: 100,
     thumbnailUrl: "https://i.ytimg.com/vi/mVKAyw0xqxw/maxresdefault.jpg",
     videoUrl:
-      "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+		"https://b23.tv/xxKFe8X"
   },
   {
     id: "8",
@@ -143,6 +143,6 @@ export const videos = [
     duration: 105,
     thumbnailUrl: "https://i.ytimg.com/vi/kxT8-C1vmd4/maxresdefault.jpg",
     videoUrl:
-      "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+		"https://b23.tv/xxKFe8X"
   },
 ]
